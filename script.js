@@ -8,11 +8,11 @@ if(side1===side2===side3){
 else if(side1===side2 || side2===side3){
     alert("This is an isoceles Triangle");
 }
-else if((side1+side2) <= side3 || (side1+side3) <= side2 || (side2+side3)<=side1){
-    alert("This is not a triangle");
+else if(side1!=side2 && side1!=side3 && side2!=side1 && side2!=side3 && side3!=side1 && side3!=side2){
+    alert("This is scalene triangle")
 }
 else{
-    alert("This is a scalene triangle");
+    alert("This is not a triangle");
 }
 
 }
