@@ -6,9 +6,21 @@ body{
     text-align: center;
     background-color: darksalmon;
 }
-eql{
-    width: 0;
-    border-bottom: 100px solid brown;
-    border-right: 100px transparent;
+#eql{
+   width:0%;
+   border-bottom: 200px solid brown;
+   border-right:200px solid transparent;
+   border-left: 200px solid transparent;
+}
+#isocele{
+    width: 0%;
+    border-bottom: 130px solid brown;
+    border-right: 200px solid transparent;
+    border-left: 200px solid transparent;
+}
+#scl{
+    width: 0%;
+    border-bottom: 130px solid solid brown;
+    border-right: 120px solid transparent;
     border-left: 100px solid transparent;
 }
