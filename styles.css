@@ -4,23 +4,47 @@ img{
 }
 body{
     text-align: center;
-    background-color: darksalmon;
+    background-color: rgb(148, 206, 186);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 115%;
 }
 #eql{
    width:0%;
-   border-bottom: 200px solid brown;
+   border-bottom: 200px solid rgb(173, 5, 69);
    border-right:200px solid transparent;
    border-left: 200px solid transparent;
+   align-items: center;
 }
 #isocele{
     width: 0%;
-    border-bottom: 130px solid brown;
+    border-bottom: 130px solid rgb(173, 5, 69);
     border-right: 200px solid transparent;
     border-left: 200px solid transparent;
 }
 #scl{
     width: 0%;
-    border-bottom: 130px solid solid brown;
-    border-right: 120px solid transparent;
-    border-left: 100px solid transparent;
+    border-bottom: 120px solid rgb(173, 5, 69);
+    border-right: 200px solid transparent;
+    border-left: 150px solid transparent;
+}
+a{
+    text-align: right;
+    background-color: rgb(199, 115, 77);
+    font-size: 20px;
+}
+#color{
+    background-color: rgb(226, 157, 233);
+}
+button{
+    background-color: beige;
+    border: solid silver;
+    color: black;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+input{
+    padding: 5px 5px;
+    margin: 10px;
 }
