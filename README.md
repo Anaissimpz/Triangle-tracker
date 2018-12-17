@@ -4,7 +4,7 @@
 #### Description
  This website will help you detemine whether a triangle is equilateral,isoscele,scalene or not a tiangle at all.
 ## Setup
-Run this link:
+Run this link: https://anaissimpz.github.io/triangle-tracker/
 ## Bugs
 There is no Bugs
 ## B.D.D
