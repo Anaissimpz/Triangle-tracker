@@ -2,3 +2,13 @@ img{
     width:200px;
     height:200px
 }
+body{
+    text-align: center;
+    background-color: darksalmon;
+}
+eql{
+    width: 0;
+    border-bottom: 100px solid brown;
+    border-right: 100px transparent;
+    border-left: 100px solid transparent;
+}
